@@ -17,11 +17,13 @@ Welcome to the Weather Announcer Forecast! This project provides a dynamic and e
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/IsaiahSkidmore/Open-AI-Challenge  
-2. Install Dependencies:
+2. **Install Dependencies**:
    ```bash
    npm instal
-3. Set Up Enviroment Variables:
+3. **Set Up Enviroment Variables**:
    * Create a '.env' file in the root directory.
    * Add your OpenAI API key:
+   ```bash
+   OPENAI_API_KEY=your_api_key_here
 
 
